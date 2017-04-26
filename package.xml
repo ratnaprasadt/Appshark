@@ -2,8 +2,11 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>39.0</version>
     <types>
+        <members>AutoRABITDemo</members>
         <members>Casio</members>
         <members>Character</members>
+        <members>EE</members>
+        <members>EdoOkati</members>
         <name>ApexClass</name>
     </types>
 </Package>
